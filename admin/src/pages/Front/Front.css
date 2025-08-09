@@ -1,0 +1,8 @@
+.main{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+    margin-top: 20px;
+    color: tomato;
+}
